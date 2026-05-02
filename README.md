@@ -104,4 +104,4 @@ Tabela dinâmica carregada via JSON do servidor PHP.
 
 ## 📝 Licença
 
-Projeto acadêmico desenvolvido para a disciplina Linguagens de Programação Universidade Uniaselvi
+Projeto acadêmico desenvolvido para a disciplina Linguagens de Programação Universidade Uniasselvi
